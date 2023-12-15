@@ -1,0 +1,14 @@
+/* Write your code here. */
+.thumbnail {
+  margin-right: 15px;
+  opacity: 0.5;
+}
+
+.is-active-thumbnail {
+  opacity: 1;
+}
+
+.button{
+  border-width: 0px;
+  background-color: transparent;
+}

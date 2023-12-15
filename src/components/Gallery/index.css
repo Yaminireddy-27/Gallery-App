@@ -1,0 +1,30 @@
+/* Write your code here. */
+.gallery-container {
+  padding: 60px;
+}
+
+.gallery-image {
+  height: 60%;
+  width: 100%;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #1e293b;
+}
+
+.gallery-creator {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+}
+
+.thumbnail-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
